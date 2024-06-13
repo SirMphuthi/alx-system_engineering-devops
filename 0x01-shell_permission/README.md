@@ -1,2 +1,2 @@
-This is the project on Shell permission
-This directory contains files that will help us learn about shell permission
+#This is the project on Shell permissions
+This directory contains files that will help us learn about Shell permissions

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Prints the contents of the current directory in list format.
+#   Only prints the part of the bname after the first dah.
+
+list=$(ls)
+for i in $list; do
+  echo "$i" | cut -d '-' -f2
+done

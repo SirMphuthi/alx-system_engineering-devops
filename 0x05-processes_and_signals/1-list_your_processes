@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#Prints all working processes.
+#  Including those which don't have a TTY.
+
+ps -auxf
